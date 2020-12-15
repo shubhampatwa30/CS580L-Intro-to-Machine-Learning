@@ -1,0 +1,8 @@
+Accuracy on training data with stop words is : 
+97.62419006479482
+Accuracy on testing data with stop words is :
+87.65690376569037
+Training with stop words on train data and testing on test data without stop words  : Accuracy is :
+87.65690376569037
+Training without stop words on train data and testing without stop words on test data: Accuracy is :
+85.98326359832636
